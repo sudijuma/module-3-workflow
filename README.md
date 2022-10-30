@@ -3,9 +3,9 @@
 ## Structure
 ### Each Day in this module will have a start and end folder.
 
-### start folder is your starting point with me at the lecture.
+### `start` folder is your starting point with me at the lecture.
 
-### end folder container the whole examples working with some comments.
+### `end` folder container the whole examples working with some comments.
 
 # Readings and resources
 
